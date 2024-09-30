@@ -1,1 +1,9 @@
-
+<html>
+<body> 
+<button style="background:blue;color:white;">кнопка</button>
+<text style="background:green;color:red;"> Какой-то текст </text>
+<img
+style="width:50px;"
+src="https://pruffme.com/assets/css/images/webinar/properties/logos/avatar_6.png">; <a href="google.com"> переходим на гугл </a> 
+</body>
+</html>
