@@ -1,6 +1,6 @@
 <html>
 <body> 
-<button style="background:blue;color:white;">кнопка</button>
+<button style="background:pink;color:white;">кнопка</button>
 <text style="background:green;color:red;"> Какой-то текст </text>
 <img
 style="width:50px;"
